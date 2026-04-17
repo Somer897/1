@@ -90,3 +90,97 @@ h1{
 .home .red_but{
     padding: 18px 46px 17px 47px;
 }
+
+/* location */
+
+h2{
+    font-family: "Gelasio", serif;
+    font-weight: 500;
+    font-size: 43px;
+    margin: 140px auto 20px auto;
+    text-align: center;
+}
+
+.location .basic_text {
+    text-align: center;
+
+}
+
+.location-text{
+    max-width: 735px;
+    margin: 0 auto 50px auto;
+}
+
+.location-description{
+    max-width: 334px;
+    margin: 0 auto 33px auto;
+}
+
+h3{
+    font-family: "Gelasio", serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.location h3{
+    text-align: center;
+    margin: 35px auto 10px auto
+}
+
+.location-card{
+    border: 1px, solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* location */
+
+
+/* about */
+
+.about-text {
+    max-width: 656px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about-cards{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.about-cards-city-text{
+    opacity: 0.6;
+    font-size: 20px;
+}
+
+.about-cards-date{
+    opacity: 0.6;
+}
+
+.about-cards-price{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.about-cards-star::before{
+    content: url(assets/Star\ 3.svg);
+    padding-right: 10px;
+}
+.about-cards-city::before{
+    content: url(assets/Group\ 42.svg);
+    padding-right: 10px;
+}
+
+.about-cards-city{
+    margin-right: 50px;
+}
+
+.about-cards-flex{
+    display: flex;
+    align-items: center;
+}
+
+/* --------------------------------------Main -------------------------------------------------------- */
+
+
+
